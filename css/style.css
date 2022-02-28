@@ -1,0 +1,31 @@
+body{
+  font-family: DangerMode, Calibri, Arial;
+  background-image: linear-gradient(#7d00fa, #9f04ba);
+}
+h1 {
+  font-family: Candara, Calibri, Arial;
+}
+#content{
+  text-align: justify;
+  margin: auto;
+  width: 500px;
+}
+.segment {
+  padding: 10px;
+  border: 3px solid #000000;
+}
+
+.segment img {
+  max-width: 200px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.segment .centerimg {
+  float: none;
+  margin: auto;
+}
+
+  p {
+    margin-top: 0px;
+  }
