@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":34,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Staff","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":7,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":117,"name":"Chainsaw","note":"","params":[0,0,50,0,0,0,0,0],"price":2500,"wtypeId":2},
+{"id":6,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"FlintGlock","note":"","params":[0,0,75,0,0,0,0,0],"price":7500,"wtypeId":9},
+{"id":7,"animationId":65,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":122,"name":"Scythe","note":"","params":[0,0,100,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":8,"animationId":12,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":123,"name":"Scimitar","note":"","params":[0,0,150,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":9,"animationId":76,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":143,"name":"Brass Knuckles","note":"","params":[0,0,250,0,0,0,0,0],"price":0,"wtypeId":11},
+{"id":10,"animationId":115,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":116,"name":"Future Sniper ","note":"","params":[0,0,450,0,0,0,0,0],"price":25000,"wtypeId":9},
+{"id":11,"animationId":112,"description":"its kind of op...","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":17,"name":"m2 Browning Machine Gun","note":"","params":[0,0,500,0,0,0,0,0],"price":75000,"wtypeId":9},
+{"id":12,"animationId":120,"description":"1tap machine","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Infinity Gauntlet","note":"","params":[999,999,500,500,500,500,500,500],"price":100000,"wtypeId":2}
+]

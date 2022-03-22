@@ -1,0 +1,129 @@
+/* Overlay class for menu */
+body{background-color: #e5ca79;}
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(2,3,2);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 1s;
+}
+#main{
+  float: center;
+  border:1em solid white;
+  margin: 4px;
+  padding:10px;
+  text-align: left;
+  width: 630px;
+  image-orientation: center;
+}
+
+.imgright{
+  float: center;
+  width: 600px;
+  padding-top: 175px;
+  padding-left: 50px;
+
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  border: 2px solid #000000;
+  background-color: #330033;
+  border-color: #FF69B4;
+  color: #AA9999;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 5px;
+  font-weight: bold;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+/* Style for the menu pointer */
+.menu_pointer {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+/* Media rule for different screens */
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+
+/* Header and text class for the larger and smaller fonts */
+
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.text {
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+
+/* Add a container to section the page */
+#container{
+  display: flex;
+  /* border: 1px solid #333; */
+}
+
+#container section {
+  padding: 10px;
+}
+
+/* Add sizing for the container parts */
+.menu {
+  width: 25%;
+}
+
+.main {
+  width: 75%;
+}
+
+/* Add a footer id */
+
+#footer {
+  position: relative;
+  margin-top: -180px;
+  /* negative value of footer height */
+  height: 180px;
+  clear: both;
+  background-color: white;
+}
