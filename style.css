@@ -11,6 +11,7 @@ body{background-color: #e5ca79;}
   background-color: rgba(0,0,0, 0.9);
   overflow-x: hidden;
   transition: 1s;
+  font-family: Candara, Calibri, Arial;
 }
 #main{
   float: center;
@@ -20,6 +21,7 @@ body{background-color: #e5ca79;}
   text-align: left;
   width: 630px;
   image-orientation: center;
+  font-family: Candara, Calibri, Arial;
 }
 
 .imgright{
@@ -36,6 +38,7 @@ body{background-color: #e5ca79;}
   width: 100%;
   text-align: center;
   margin-top: 30px;
+  font-family: Candara, Calibri, Arial;
 }
 
 .overlay a {
@@ -55,6 +58,7 @@ body{background-color: #e5ca79;}
   font-weight: bold;
   transition-property: background-color;
   transition-duration: 0.5s;
+  font-family: Candara, Calibri, Arial;
 }
 
 .overlay a:hover, .overlay a:focus {
